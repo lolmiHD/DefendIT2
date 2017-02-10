@@ -1,0 +1,10 @@
+name: DefendSystem
+version: 1.0
+author: lolmiHD
+main: me.stonygames.Defend.Main.Main
+
+commands:
+  setspawn:
+  setlobby:
+  team:
+  start:
